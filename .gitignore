@@ -1,1 +1,8 @@
 .DS_Store
+bin/
+obj/
+.vs/
+*.user
+*.suo
+MiniLINQPlayground/bin
+MiniLINQPlayground/obj
