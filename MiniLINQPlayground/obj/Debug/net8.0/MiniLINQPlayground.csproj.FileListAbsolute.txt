@@ -1,0 +1,14 @@
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/obj/Debug/net8.0/MiniLINQPlayground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/obj/Debug/net8.0/MiniLINQPlayground.AssemblyInfoInputs.cache
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/obj/Debug/net8.0/MiniLINQPlayground.AssemblyInfo.cs
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/obj/Debug/net8.0/MiniLINQPlayground.csproj.CoreCompileInputs.cache
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/bin/Debug/net8.0/MiniLINQPlayground
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/bin/Debug/net8.0/MiniLINQPlayground.deps.json
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/bin/Debug/net8.0/MiniLINQPlayground.runtimeconfig.json
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/bin/Debug/net8.0/MiniLINQPlayground.dll
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/bin/Debug/net8.0/MiniLINQPlayground.pdb
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/obj/Debug/net8.0/MiniLINQPlayground.dll
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/obj/Debug/net8.0/refint/MiniLINQPlayground.dll
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/obj/Debug/net8.0/MiniLINQPlayground.pdb
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/obj/Debug/net8.0/MiniLINQPlayground.genruntimeconfig.cache
+/Users/roshansharma/CsharpTestProjects/MiniLINQPlayground/MiniLINQPlayground/obj/Debug/net8.0/ref/MiniLINQPlayground.dll
