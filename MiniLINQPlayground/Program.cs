@@ -1,13 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using MiniLINQPlayground.Logic;
+using MiniLINQPlayground.Models;
 
-var numbers = new List<int> { 1, 2, 3, 4, 5 };
+var numbers = new List<int>{23,54,676,34,54,4,3,5,56,3};
 
-// Mini Where Test
-var evens = numbers.MiniWhere(n => n % 2 == 0);
-Console.WriteLine("Even numbers:");
-foreach (var n in evens)
-{
-    Console.WriteLine(n);
-}
 
+var result = numbers.MiniAggregate((a, b) => a + b);
+
+Console.WriteLine(result);  
